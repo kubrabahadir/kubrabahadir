@@ -1,6 +1,6 @@
 <!-- Profil Fotoğrafı Bölümü -->
 <p align="center">
-  <img src="https://your-image-link-here" alt="Magdeline Huang" width="200" height="200"/>
+  ![1693649495225](https://github.com/user-attachments/assets/a56ba07a-d5fd-4c83-a209-bd32f8d22858)
 </p>
 
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
