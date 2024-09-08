@@ -1,6 +1,6 @@
 <!-- Profil Fotoğrafı Bölümü -->
 <p align="center">
-  ![1693649495225](https://github.com/user-attachments/assets/a56ba07a-d5fd-4c83-a209-bd32f8d22858)
+  <img src="https://github.com/user-attachments/assets/a56ba07a-d5fd-4c83-a209-bd32f8d22858" alt="Kübra Bahadır" width="200" height="200"/>
 </p>
 
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
