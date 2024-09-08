@@ -1,7 +1,4 @@
 <!-- Profil Fotoğrafı Bölümü -->
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/a56ba07a-d5fd-4c83-a209-bd32f8d22858" alt="Kübra Bahadır" width="200" height="200"/>
-</p>
 
 <h1 align="center"> Hi, I'm Kübra! 👋 </h1>
 
@@ -36,5 +33,5 @@
 <!-- Sosyal Medya Linkleri -->
 ## 🌐 Connect with me
 <p align="center">
-  <a href="https://linkedin.com/in/kubrabahadır" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://linkedin.com/in/kubrabahadir" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
